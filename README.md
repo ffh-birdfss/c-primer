@@ -1,2 +1,2 @@
-# c-primer
+# c++primer
 learning C++ primer 
